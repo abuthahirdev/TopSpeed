@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\views\\brand\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\views\\shared\\_notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\views\\shared\\_notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\views\\brand\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\views\\brand\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\views\\brand\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\topspeed.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\topspeed.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|c:\\abuthahir\\mvc\\projects\\topspeedautomobile\\topspeed.web\\migrations\\20260816045924_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0952017D-4710-78B0-D473-A85E6DD7797F}|TopSpeed.web\\TopSpeed.web.csproj|solutionrelative:topspeed.web\\migrations\\20260816045924_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Notifications.cshtml",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Shared\\_Notifications.cshtml",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Views\\Shared\\_Notifications.cshtml",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Shared\\_Notifications.cshtml",
+              "RelativeToolTip": "TopSpeed.web\\Views\\Shared\\_Notifications.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-18T15:28:37.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Brand\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Views\\Brand\\Delete.cshtml",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Brand\\Delete.cshtml",
+              "RelativeToolTip": "TopSpeed.web\\Views\\Brand\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-18T13:41:10.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Brand\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Views\\Brand\\Edit.cshtml",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Brand\\Edit.cshtml",
+              "RelativeToolTip": "TopSpeed.web\\Views\\Brand\\Edit.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-18T06:45:57.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Brand\\Details.cshtml",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Views\\Brand\\Details.cshtml",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Brand\\Details.cshtml",
+              "RelativeToolTip": "TopSpeed.web\\Views\\Brand\\Details.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-18T04:18:05.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TopSpeed.web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-17T07:05:56.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "TopSpeed.web\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-17T06:14:00.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Brand\\Index.cshtml",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Views\\Brand\\Index.cshtml",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Brand\\Index.cshtml",
+              "RelativeToolTip": "TopSpeed.web\\Views\\Brand\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-16T06:10:12.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "TopSpeed.web\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAJ8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T06:02:11.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\appsettings.json",
+              "RelativeDocumentMoniker": "TopSpeed.web\\appsettings.json",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\appsettings.json",
+              "RelativeToolTip": "TopSpeed.web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-16T04:14:31.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TopSpeed.web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T04:06:36.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Models\\Brand.cs",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Models\\Brand.cs",
+              "RelativeToolTip": "TopSpeed.web\\Models\\Brand.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T04:34:55.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TopSpeed.web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADUAAADCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-16T06:12:47.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260816045924_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Migrations\\20260816045924_InitialMigration.cs",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Migrations\\20260816045924_InitialMigration.cs",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Migrations\\20260816045924_InitialMigration.cs",
+              "RelativeToolTip": "TopSpeed.web\\Migrations\\20260816045924_InitialMigration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T04:59:25.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TopSpeed.web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-16T03:46:25.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TopSpeed.web.csproj",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\TopSpeed.web.csproj",
+              "RelativeDocumentMoniker": "TopSpeed.web\\TopSpeed.web.csproj",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\TopSpeed.web.csproj",
+              "RelativeToolTip": "TopSpeed.web\\TopSpeed.web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-16T03:52:20.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TopSpeed.web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T06:08:33.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TopSpeed.web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T06:15:20.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Program.cs",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Program.cs",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Program.cs",
+              "RelativeToolTip": "TopSpeed.web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T06:08:24.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TopSpeed.web\\appsettings.Development.json",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\appsettings.Development.json",
+              "RelativeToolTip": "TopSpeed.web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-16T03:43:57.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TopSpeed.web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T06:09:26.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TopSpeed.web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Abuthahir\\MVC\\Projects\\TopSpeedAutoMobile\\TopSpeed.web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TopSpeed.web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T06:09:03.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
